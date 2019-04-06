@@ -1,0 +1,20 @@
+{
+    "name": "xiaoxiaoxuan/yii2-swoole",
+    "description": "yii2-swoole",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {},
+    "license": "MIT",
+    "authors": [{
+        "name": "xiaoxiaoxuan",
+        "email": "13625270510@qq.com"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "xiaoxuan\\": "src/"
+        }
+    }
+}
